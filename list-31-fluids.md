@@ -1,7 +1,7 @@
-This table contains the main properties of 31 low-ODP and low-GWP fluids. The data is from CoolProp 6.4.1 [^*]
+This table contains the main properties of 31 low-ODP and low-GWP fluids. The data is from CoolProp 6.4.1 [^1]
 
 |Fluid|Category|Critical temperature [°C]|Critical pressure [bar]|15°C saturation pressure [bar]|100 years GWP|ASHRAE 34[^b]|Type|No.|
-|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|---|---|---|--:|--:|:--|:---:|:--|:--|
 |R1270 (Propene)|HC|91.1|45.6|8.9|3.1|A3|wet|1|
 |R1234yf|HFO|94.7|33.8|5.1|0.501[^a]|A2L|dry|2|
 |R290 (n-Propane)|HC|96.7|42.5|7.3|0.02[^a]|A3|wet|3|
@@ -34,6 +34,6 @@ This table contains the main properties of 31 low-ODP and low-GWP fluids. The da
 |Toluene|HC|318.6|41.3|<0.1|3.3|N/A|dry|30|
 |ethyl-Benzene|HC|344.0|36.2|<0.1|N/A|N/A|dry|31|
 
-[^*]: Bell, I.H., Wronski, J., Quoilin, S., Lemort, V., 2014. Pure and pseudo-pure fluid thermophysical property evaluation and the open-source thermophysical property library CoolProp. Industrial & engineering chemistry research 53, 2498–2508.
+[^1]: Bell, I.H., Wronski, J., Quoilin, S., Lemort, V., 2014. Pure and pseudo-pure fluid thermophysical property evaluation and the open-source thermophysical property library CoolProp. Industrial & engineering chemistry research 53, 2498–2508.
 [^a]: Value from Table 7.SM.7 of IPCC 6th Assessment Report (Smith et al., 2021)
 [^b]: ASHRAE Standard 34-2022, "Designation and Safety Classification of Refrigerants"
