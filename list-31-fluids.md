@@ -1,7 +1,7 @@
 This table contains the main properties of 31 low-ODP and low-GWP fluids. The data is from CoolProp 6.4.1 [^1]
 
 |Fluid|Category|Critical temperature [°C]|Critical pressure [bar]|15°C saturation pressure [bar]|100 years GWP|ASHRAE 34[^b]|Type|No.|
-|---|---|---|--:|--:|:--|:---:|:--|:--|
+|---|---|--:|--:|--:|--:|---|---|---|
 |R1270 (Propene)|HC|91.1|45.6|8.9|3.1|A3|wet|1|
 |R1234yf|HFO|94.7|33.8|5.1|0.501[^a]|A2L|dry|2|
 |R290 (n-Propane)|HC|96.7|42.5|7.3|0.02[^a]|A3|wet|3|
